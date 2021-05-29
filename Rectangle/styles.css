@@ -1,0 +1,14 @@
+.e35_7 { 
+	width:514px;
+	height:514px;
+	position:absolute;
+}.e35_0 { 
+	width:514px;
+	height:514px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/rectangle.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
