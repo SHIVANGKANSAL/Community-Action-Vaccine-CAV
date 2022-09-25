@@ -8,6 +8,6 @@ It will help people to get vaccinated
 
 ### [PPt link google doc/ presentation](https://docs.google.com/presentation/d/11flk0kYMLU_ZvFPhvQqdQwvQFEUo9qqqkGsmwVj7ccU/edit?usp=sharing)
 
-### [Vedio demo link](https://drive.google.com/file/d/1Wbz5rnaZGeV-O1ChB3fj6UOFhXrolexa/view?usp=sharing)
+### [video Demonstration Link](https://drive.google.com/file/d/1Wbz5rnaZGeV-O1ChB3fj6UOFhXrolexa/view?usp=sharing)
 
 # Thank you from team Code Army
